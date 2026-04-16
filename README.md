@@ -4,27 +4,21 @@
 
 # Olá, eu sou Lucas Ximenes 👋
 
-- 🎓 Estudante do 1º período de Ciência da Computação.
-
-- 💻 Apaixonado por tecnologia, programação e inovação.
-
-- 🚀 Estudando desenvolvimento Web com HTML, CSS e JavaScript.
-
-- 🧠 Interesse em sistemas, design e criação de projetos digitais.
-
-- 📚 Sempre buscando aprender novas ferramentas e evoluir na área de TI.
-
-- 🔥 Criativo, determinado e focado no crescimento profissional.
-
-- ⚽ Torcedor do Sport Club do Recife.
-
-- 🙏 Fé, família e disciplina como base de tudo.
+- 🎓 Estudante do 1º período de Ciência da Computação.  
+- 💻 Apaixonado por tecnologia, programação e inovação.  
+- 🚀 Estudando HTML, CSS e JavaScript.  
+- 🧠 Interesse em sistemas e projetos digitais.  
+- 📚 Sempre buscando evoluir na área de TI.  
+- 🔥 Criativo e determinado.  
+- ⚽ Torcedor do Sport Club do Recife.  
+- 🙏 Fé, família e disciplina.  
 
 </td>
 
 <td width="40%">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/luffy-monkey-d-luffy.gif" width="350px">
-</td>
 
+<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="300px">
+
+</td>
 </tr>
 </table>
