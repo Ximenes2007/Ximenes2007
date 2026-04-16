@@ -23,7 +23,7 @@
 </td>
 
 <td width="40%">
-<img src="[https://cdn-icons-png.flaticon.com/512/2721/2721291.png](https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif)" width="350px">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png](https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif)](https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif" width="350px">
 </td>
 
 </tr>
