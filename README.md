@@ -17,7 +17,7 @@
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="300px">
+<img src="https://raw.githubusercontent.com/yourusername/assets/main/luffy.gif" width="300px">
 
 </td>
 </tr>
