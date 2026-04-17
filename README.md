@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="middle">
 
 # Olá, eu sou Lucas Ximenes 👋
 
@@ -15,7 +15,7 @@
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif" width="260px">
 
