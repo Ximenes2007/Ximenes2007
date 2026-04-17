@@ -27,4 +27,20 @@
 </tr>
 </table>
 
+<h2>📍 Onde me encontrar</h2>
+
+<p>
+  <a href="lucasximenes2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="[https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/lucas-ximenes-de-albuquerque-9a01b1283/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="@lucasximenes2007">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 </div>
