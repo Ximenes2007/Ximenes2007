@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 # Olá, eu sou Lucas Ximenes 👋
 
@@ -15,9 +15,9 @@
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/yourusername/assets/main/luffy.gif" width="300px">
+<img src="https://raw.githubusercontent.com/Ximenes2007/assets/main/luffy-cafe.gif" width="260px">
 
 </td>
 </tr>
