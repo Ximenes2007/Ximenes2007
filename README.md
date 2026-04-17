@@ -17,7 +17,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Ximenes2007/assets/main/luffy-cafe.gif" width="260px">
+<img src="https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif" width="260px">
 
 </td>
 </tr>
