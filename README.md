@@ -20,7 +20,9 @@
 
 <td width="50%" align="center" valign="middle">
 
+<picture>
 <img src="https://media.tenor.com/XEPDHNCoPLIAAAAM/luffy-monkey-d-luffy.gif" width="260px">
+</picture>
 
 </td>
 
@@ -30,16 +32,22 @@
 <h2>📍 Onde me encontrar</h2>
 
 <p>
-  <a href="lucasximenes2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:lucasximenes2007@gmail.com">
+    <picture>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </picture>  
   </a>
   
-  <a href="[https://www.linkedin.com/in/seuusuario/](https://www.linkedin.com/in/lucas-ximenes-de-albuquerque-9a01b1283/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/lucas-ximenes-de-albuquerque-9a01b1283/" target="_blank">
+    <picture>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </picture>
   </a>
   
-  <a href="@lucasximenes2007">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/lucasximenes2007" target="_blank">
+    <picture>
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </picture>
   </a>
 </p>
 
