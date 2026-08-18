@@ -7,7 +7,7 @@
 
 # Olá, eu sou Lucas Ximenes 👋
 
-- 🎓 Estudante do 1º período de Ciência da Computação  
+- 🎓 Estudante do 2º período de Ciência da Computação  
 - 💻 Apaixonado por tecnologia, programação e inovação  
 - 🚀 Estudando HTML, CSS e JavaScript  
 - 🧠 Interesse em sistemas e projetos digitais  
